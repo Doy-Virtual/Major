@@ -1,0 +1,1 @@
+query_id=AAGdMR4tAwAAAJ0xHi2jNBk3&user=%7B%22id%22%3A7199404445%2C%22first_name%22%3A%22Doy%22%2C%22last_name%22%3A%22Virtual%22%2C%22username%22%3A%22Doyvirtual01%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726891979&hash=31872f70d3cd8482227a9dd79a50e72aae3084861cfe56d99b657971952e56de
